@@ -1,8 +1,6 @@
-
 from .character import Character
 
 class CharacterBuilder:
-    """Builder pattern: constructs Character objects step-by-step."""
     def __init__(self):
         self.name = None
         self.char_class = None
