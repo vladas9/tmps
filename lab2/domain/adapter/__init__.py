@@ -1,0 +1,1 @@
+from .json_character_adapter import JSONCharacterAdapter
